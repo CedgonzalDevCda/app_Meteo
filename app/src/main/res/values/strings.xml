@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="icon_description">Icon</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="info_loading">Loading...</string>
+    <string name="info_no_internet">No internet available</string>
+    <string name="obs_temp">%1$d°C / %2$d°C \n (%3$d°C)</string>
+    <string name="obs_wind">%1$d° / %2$dkm/h</string>
+    <string name="obs_humidity">%1$d%%</string>
+    <string name="action_share">Share</string>
+</resources>
